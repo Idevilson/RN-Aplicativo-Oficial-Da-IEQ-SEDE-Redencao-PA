@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "app-ieq",
+    "slug": "appieq",
+    "version": "1.0.0",
+    "scheme": "com.appieq",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/logo-ieq.png",
+      "backgroundColor": "#f0f2f5"
+    }
+  }
+}
